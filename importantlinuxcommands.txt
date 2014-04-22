@@ -6,5 +6,13 @@ search string pattern in current directory:
  
  search string pattern in different directory:
  find /home/ipprod -type f -name "*_20140306_11*"
+
  
  Added something for testing
+
+
+this is shahul changes git clone.
+
+
+added something new
+
