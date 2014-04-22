@@ -1,0 +1,10 @@
+SFTP Server Status
+SFTP SERVER NAME: 172.17.18.100
+
+
+h2. SFTP SERVER NAME: 172.17.18.100
+
+| *FileName* | *Date* |
+ | Document1.txt | Fri Feb 07 19:51:33 IST 2014 | 
+ | default.jsp | Tue Sep 25 10:51:48 IST 2012 | 
+ | No of files found: 4 | 
