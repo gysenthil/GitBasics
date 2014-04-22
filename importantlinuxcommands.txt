@@ -1,0 +1,8 @@
+find files and copy
+find . -type f -name "*_20140306_11*" -exec cp {} /home/ipprod/CENfailures06Mar2014/ \;
+
+search string pattern in current directory:
+ find . -type f -name "*_20140306_11*"
+ 
+ search string pattern in different directory:
+ find /home/ipprod -type f -name "*_20140306_11*"
